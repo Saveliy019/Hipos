@@ -1,0 +1,9 @@
+﻿{
+  "name": "hipos-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hipos storefront and local order admin",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
